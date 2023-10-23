@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 0.2494336018115264,
+      "task": "read doc",
+      "completed": true
+    },
+    {
+      "id": 0.7316270625151757,
+      "task": "write doc",
+      "completed": true
+    },
+    {
+      "id": 0.5222931391200809,
+      "task": "report",
+      "completed": true
+    },
+    {
+      "id": 0.8095191514120563,
+      "task": "fix bug",
+      "completed": true
+    },
+    {
+      "id": 0.12027398885636198,
+      "task": "code task",
+      "completed": false
+    }
+  ]
+}
